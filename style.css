@@ -1,0 +1,31 @@
+.encabezado{
+	display: block;
+	background: #FFC107;
+	padding: 15px;
+	border: 1px solid black;
+	border-bottom: none;
+	margin-right: 380px;
+	margin-left: 380px;
+}
+
+.columna{
+	border: 1px solid black;
+	padding: 172px;
+	margin-left: 380px;
+	margin-right: 600px;
+	width: 227px;
+	height: 80px;
+}
+.pie_tabla{
+	display: block;
+	background: #FFC107;
+	padding: 15px;
+	border: 1px solid black;
+	border-top: none;
+	margin-right: 380px;
+	margin-left: 380px;
+}
+.centro{
+	width: 228px;
+	height: 380px;
+}
